@@ -6729,7 +6729,7 @@
                     attrs: {
                         target: "_blank",
                         rel: "noopener",
-                        href: "https://links.buyfreshmade.com"
+                        href: "#!"
                     }
                 }, [n("span", {
                     staticStyle: {
@@ -6738,7 +6738,7 @@
                 }, [e._v("")]), n("img", {
                     staticClass: "h-4 px-1 self-center",
                     attrs: {
-                        src: "https://media.swipepages.com/2022/1/619c7d91f7d3ee0011729a83/fm-logo-black.svg",
+                        src: "https://cdn.jsdelivr.net/gh/buyfreshmade/files@main/blank-default.png",
                         alt: "Freshmade"
                     }
                 })])]) : e._e()], 1) : e._e()])], 1)
