@@ -6650,7 +6650,7 @@
                     staticClass: "h-5 mx-auto self-center",
                     attrs: {
                         id: "help-widget-logo",
-                        src: e.$widget.config.logo || "https://cdn.helpspace.com/brand/widget-default-logo.svg",
+                        src: e.$widget.config.logo || "https://cdn.jsdelivr.net/gh/buyfreshmade/files@main/blank-default.png",
                         alt: e.$widget.config.logo_alt
                     }
                 }) : e._e()]), n("div", {
